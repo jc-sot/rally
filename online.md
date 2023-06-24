@@ -7,13 +7,13 @@ The circuit has two lightbulbs, two switches and one battery. If both switches a
 1. Write a code to figure out if the switch is on or off.
 2. Complete the following table:
 
-| Battery | Switch 1 | Switch 2 | Light
+| Battery | Switch 1 | Switch 2 | Light    |
 | ------- | -------- | -------- | -------- |
-| 0       | 0        | 0        |   _____  |
-| 0       | 0        | 1        |   _____  |
-| 0       | 1        | 0        |   _____  |
-| 0       | 1        | 1        |   _____  |
-| 1       | 0        | 0        |   _____  |
-| 1       | 0        | 1        |   _____  |
-| 1       | 1        | 0        |   _____  |
-| 1       | 1        | 1        |   _____  |
+| 0       | 0        | 0        |  _____   |
+| 0       | 0        | 1        |  _____   |
+| 0       | 1        | 0        |  _____   |
+| 0       | 1        | 1        |  _____   |
+| 1       | 0        | 0        |  _____   |
+| 1       | 0        | 1        |  _____   |
+| 1       | 1        | 0        |  _____   |
+| 1       | 1        | 1        |  _____   |
