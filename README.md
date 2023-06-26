@@ -12,3 +12,12 @@ then one point. Good luck!
   * [Question 9](https://jc-sot.github.io/rally_2023/questions/q9)
   * [Question 10](https://jc-sot.github.io/rally_2023/questions/q10)
 
+
+[Question 1](https://jc-sot.github.io/rally_2023/questions/q1){: .btn}
+[Question 2](https://jc-sot.github.io/rally_2023/questions/q2){: .btn}
+[Question 3](https://jc-sot.github.io/rally_2023/questions/q3){: .btn}
+[Question 4](https://jc-sot.github.io/rally_2023/questions/q4){: .btn}
+
+[Question 5](https://jc-sot.github.io/rally_2023/questions/q5){: .btn} [Question 6](https://jc-sot.github.io/rally_2023/questions/q6){: .btn} 
+[Question 7](https://jc-sot.github.io/rally_2023/questions/q7){: .btn} [Question 8](https://jc-sot.github.io/rally_2023/questions/q8){: .btn}
+[Question 9](https://jc-sot.github.io/rally_2023/questions/q9){: .btn} [Question 10](https://jc-sot.github.io/rally_2023/questions/q10){: .btn}
