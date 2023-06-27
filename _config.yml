@@ -6,6 +6,9 @@ kramdown:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "Spirit of Technology: Rally"
+title: "Spirit of Technology Rally 2023"
+
+github:
+  is_project_page: false
 
 description: 
