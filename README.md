@@ -12,5 +12,4 @@ then one point for all other teams that solve the question. Good luck!
   * [Question 9](https://jc-sot.github.io/rally_2023/questions/q9)
   * [Question 10](https://jc-sot.github.io/rally_2023/questions/q10)
 
-Click [here](https://jc-sot.github.io/rally_2023/scores) to view the scores.
 
