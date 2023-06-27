@@ -1,6 +1,6 @@
+Your team may do any question in any order. Three points for the first team that solves a problem, two points for the second team that solves the problem, and one point for the third team that solves that problem.
+
 # Part 3: Questions
-Three points are awarded for the first team that solves a question, then two points for the second team,
-then one point for all other teams that solve the question. Good luck!
   * [Question 1](https://jc-sot.github.io/rally_2023/questions/q1)
   * [Question 2](https://jc-sot.github.io/rally_2023/questions/q2)
   * [Question 3](https://jc-sot.github.io/rally_2023/questions/q3)
