@@ -1,6 +1,6 @@
 # Current Scores
 
-|         | Online Team | In-Person Team 1 | In-Person Team 2 |  In-Person Team 3  |  In-Person Team 4  |
+|         | Online Team | Camano Camanos | Corp. of Nice Things |  In-Person Team 3  |  In-Person Team 4  |
 |-------- | ----------- | ---------------- | ---------------- | ------------------ | ------------------ |
 |Q1 Score |0            |0                 |0                 |0                   |0                   |
 |Q2 Score |0            |0                 |0                 |0                   |0                   |
