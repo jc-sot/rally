@@ -1,4 +1,4 @@
-## Part 3: Questions
+# Part 3: Questions
 Three points are awarded for the first team that solves a question, then two points for the second team,
 then one point for all other teams that solve the question. Good luck!
   * [Question 1](https://jc-sot.github.io/rally_2023/questions/q1)
