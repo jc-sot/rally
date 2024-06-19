@@ -1,5 +1,7 @@
 Your team may do any question in any order. Three points for the first team that solves a problem, two points for the second team that solves the problem, and one point for the third team that solves that problem.
 
+To solve the question, you may use Python or JavaScript!
+
 # Part 3: Questions
   * [Question 1](https://jc-sot.github.io/rally_2024/questions/q1)
   * [Question 2](https://jc-sot.github.io/rally_2024/questions/q2)
