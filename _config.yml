@@ -6,6 +6,6 @@ kramdown:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: "Spirit of Technology Rally 2024"
+title: "Spirit of Technology Rally 2025"
 
 description: 
